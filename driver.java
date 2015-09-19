@@ -18,7 +18,7 @@ public class driver {
 		queue.push(n1);
 		//queue.push(n2);
 		System.out.println(queue.toString());
-		gf
+		
 		
 
 	}
